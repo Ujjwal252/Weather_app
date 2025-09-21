@@ -13,7 +13,7 @@
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
-    margin-left: 30%;
+    margin-left: 10%;
 }
 .search{
     width: 100%;
@@ -88,5 +88,6 @@
     margin-top: 10px;
     display: none;
 }
+
 
 
